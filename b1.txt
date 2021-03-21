@@ -1,1 +1,3 @@
-This is DEVELOPER 1 !
+This is DEVELOPER 1!
+
+Some new changes made by DEV2!
